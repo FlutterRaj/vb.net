@@ -1,0 +1,12 @@
+D:\dot net projects\if in do net\bin\Debug\if in do net.exe.config
+D:\dot net projects\if in do net\bin\Debug\if in do net.exe
+D:\dot net projects\if in do net\bin\Debug\if in do net.pdb
+D:\dot net projects\if in do net\bin\Debug\if in do net.xml
+D:\dot net projects\if in do net\obj\Debug\if in do net.vbprojAssemblyReference.cache
+D:\dot net projects\if in do net\obj\Debug\if_in_do_net.Form1.resources
+D:\dot net projects\if in do net\obj\Debug\if_in_do_net.Resources.resources
+D:\dot net projects\if in do net\obj\Debug\if in do net.vbproj.GenerateResource.cache
+D:\dot net projects\if in do net\obj\Debug\if in do net.vbproj.CoreCompileInputs.cache
+D:\dot net projects\if in do net\obj\Debug\if in do net.exe
+D:\dot net projects\if in do net\obj\Debug\if in do net.xml
+D:\dot net projects\if in do net\obj\Debug\if in do net.pdb

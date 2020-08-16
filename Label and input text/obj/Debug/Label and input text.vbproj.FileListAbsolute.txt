@@ -1,0 +1,11 @@
+C:\Users\Raj\source\repos\Label and input text\obj\Debug\Label_and_input_text.Form1.resources
+C:\Users\Raj\source\repos\Label and input text\obj\Debug\Label_and_input_text.Resources.resources
+C:\Users\Raj\source\repos\Label and input text\obj\Debug\Label and input text.vbproj.GenerateResource.cache
+C:\Users\Raj\source\repos\Label and input text\obj\Debug\Label and input text.vbproj.CoreCompileInputs.cache
+C:\Users\Raj\source\repos\Label and input text\bin\Debug\Label and input text.exe.config
+C:\Users\Raj\source\repos\Label and input text\bin\Debug\Label and input text.exe
+C:\Users\Raj\source\repos\Label and input text\bin\Debug\Label and input text.pdb
+C:\Users\Raj\source\repos\Label and input text\bin\Debug\Label and input text.xml
+C:\Users\Raj\source\repos\Label and input text\obj\Debug\Label and input text.exe
+C:\Users\Raj\source\repos\Label and input text\obj\Debug\Label and input text.xml
+C:\Users\Raj\source\repos\Label and input text\obj\Debug\Label and input text.pdb

@@ -1,0 +1,11 @@
+D:\dot net projects\check a num is even or odd\bin\Debug\check a num is even or odd.exe.config
+D:\dot net projects\check a num is even or odd\bin\Debug\check a num is even or odd.exe
+D:\dot net projects\check a num is even or odd\bin\Debug\check a num is even or odd.pdb
+D:\dot net projects\check a num is even or odd\bin\Debug\check a num is even or odd.xml
+D:\dot net projects\check a num is even or odd\obj\Debug\check_a_num_is_even_or_odd.Form1.resources
+D:\dot net projects\check a num is even or odd\obj\Debug\check_a_num_is_even_or_odd.Resources.resources
+D:\dot net projects\check a num is even or odd\obj\Debug\check a num is even or odd.vbproj.GenerateResource.cache
+D:\dot net projects\check a num is even or odd\obj\Debug\check a num is even or odd.vbproj.CoreCompileInputs.cache
+D:\dot net projects\check a num is even or odd\obj\Debug\check a num is even or odd.exe
+D:\dot net projects\check a num is even or odd\obj\Debug\check a num is even or odd.xml
+D:\dot net projects\check a num is even or odd\obj\Debug\check a num is even or odd.pdb

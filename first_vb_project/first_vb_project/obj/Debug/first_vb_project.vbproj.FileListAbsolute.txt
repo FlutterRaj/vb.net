@@ -1,0 +1,12 @@
+D:\dot net projects\first_vb_project\first_vb_project\bin\Debug\first_vb_project.exe.config
+D:\dot net projects\first_vb_project\first_vb_project\bin\Debug\first_vb_project.exe
+D:\dot net projects\first_vb_project\first_vb_project\bin\Debug\first_vb_project.pdb
+D:\dot net projects\first_vb_project\first_vb_project\bin\Debug\first_vb_project.xml
+D:\dot net projects\first_vb_project\first_vb_project\obj\Debug\first_vb_project.vbprojAssemblyReference.cache
+D:\dot net projects\first_vb_project\first_vb_project\obj\Debug\first_vb_project.Form1.resources
+D:\dot net projects\first_vb_project\first_vb_project\obj\Debug\first_vb_project.Resources.resources
+D:\dot net projects\first_vb_project\first_vb_project\obj\Debug\first_vb_project.vbproj.GenerateResource.cache
+D:\dot net projects\first_vb_project\first_vb_project\obj\Debug\first_vb_project.vbproj.CoreCompileInputs.cache
+D:\dot net projects\first_vb_project\first_vb_project\obj\Debug\first_vb_project.exe
+D:\dot net projects\first_vb_project\first_vb_project\obj\Debug\first_vb_project.xml
+D:\dot net projects\first_vb_project\first_vb_project\obj\Debug\first_vb_project.pdb
